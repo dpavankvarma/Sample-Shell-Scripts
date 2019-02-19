@@ -1,4 +1,4 @@
-# Problem : Use for loops to display only odd natural numbers from  to .
+# Problem : Use for loops to display only odd natural numbers from 1 to 99.
 #!/bin/bash
 
 for i in {1..99}
